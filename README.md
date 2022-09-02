@@ -3,6 +3,7 @@
 ### 🌱 Autonomous Driving Perception Engineer
 
 #### Interests
+- Deep Learning (Object Detection, Segmentation)
 - Computer Vision (Multi view camera, NeRF)
 - Sensor Fusion (Camera and LiDAR)
 - Visual SLAM
