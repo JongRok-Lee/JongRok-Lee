@@ -1,6 +1,7 @@
 <h1 align="center"> JongRok Lee's Profile 👋 </h1>
 
-### Autonomous Driving Perception Engineer
+## 🌱 Autonomous Driving Perception Engineer
+
 <!--
 Here are some ideas to get you started:
 
@@ -15,5 +16,4 @@ Here are some ideas to get you started:
 -->
 
 ![JongRok's GitHub stats](https://github-readme-stats.vercel.app/api?username=JongRok-Lee&show_icons=true&theme=radical)
-
 [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/channel/UC13x2Xi7twyTYdqlb8lOnyA)](https://www.youtube.com/channel/UC13x2Xi7twyTYdqlb8lOnyA)
