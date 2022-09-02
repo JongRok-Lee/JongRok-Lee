@@ -1,7 +1,11 @@
 <h1 align="center"> JongRok Lee's Profile 👋 </h1>
 
-## 🌱 Autonomous Driving Perception Engineer
+### 🌱 Autonomous Driving Perception Engineer
 
+#### Interests
+- Computer Vision (Multi view camera, NeRF)
+- Sensor Fusion (Camera and LiDAR)
+- Visual SLAM
 <!--
 Here are some ideas to get you started:
 
