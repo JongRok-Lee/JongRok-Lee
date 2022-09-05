@@ -2,14 +2,14 @@
 
 ## 🌱 I do want to be a perception engineer for autonomous driving!
 
-### Interests
+### 😄Interests
 - Computer Vision
 - Sensor Fusion
 - Visual SLAM
 - Deep Learning
 
 
-### Project Lists related to Perception
+### 🤔Project Lists related to Perception
 1. [Lane Keeping System](https://github.com/JongRok-Lee/Lane_keeping_system)
 2. [Object Detection & Position Estimation](https://github.com/JongRok-Lee/Monocular_Position_Estimation)
 3. [Traffic Sign Detection & Driving Algorithm](https://github.com/JongRok-Lee/traffic_sign_Project)
@@ -17,8 +17,6 @@
 5. [Peudo RGBD SLAM for visualization of vehicle surroundings](https://github.com/JongRok-Lee/ORB_SLAM2_with_PCL)
 6. [Surroud view Monitoring System](https://github.com/JongRok-Lee/Surround-View-Monitoring)
 
-### Research topic for masters degree (Passive Dynamic Walking)
-I studied a [Passive Dynamic Walking](https://github.com/JongRok-Lee/Passive_Dynamic_Walking_Robot) principle to examine and simulate the human gait patterns.
 
 <!--
 Here are some ideas to get you started:
