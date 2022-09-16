@@ -17,6 +17,10 @@
 5. [Peudo RGBD SLAM for visualization of vehicle surroundings](https://github.com/JongRok-Lee/ORB_SLAM2_with_PCL)
 6. [Surroud view Monitoring System](https://github.com/JongRok-Lee/Surround-View-Monitoring)
 
+### 🌱 Study with [Toy project](https://github.com/JongRok-Lee/Toy-Projects)
+1. Stitching Implementation with OpenCV Stitching API
+2. Implementation of Trajkovic's corner detection algorithm
+3. Calculate Homography Matrix with [DLT + RANSAC] algorithm
 
 <!--
 Here are some ideas to get you started:
