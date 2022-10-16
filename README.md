@@ -24,12 +24,12 @@
 
 ### 🤔 Now Studying!
 1. Book
-  1. [Multiple View Geometry](https://www.robots.ox.ac.uk/~vgg/hzbook/)
-  2. [Introduction to Visual SLAM](https://github.com/gaoxiang12/slambook)
-  3. [Introduction to Computer Graphics with OpenGL ES](https://github.com/medialab-ku/openGLESbook)
+  a. [Multiple View Geometry](https://www.robots.ox.ac.uk/~vgg/hzbook/)
+  b. [Introduction to Visual SLAM](https://github.com/gaoxiang12/slambook)
+  c. [Introduction to Computer Graphics with OpenGL ES](https://github.com/medialab-ku/openGLESbook)
 2. Topics
-  1. Sensor Fusion principle using Kalman filter
-  2. Lie Group & Lie Algebra
+  a. Sensor Fusion principle using Kalman filter
+  b. Lie Group & Lie Algebra
 <!--
 Here are some ideas to get you started:
 
