@@ -1,6 +1,6 @@
 <h1 align="center"> JongRok Lee's Profile 👋 </h1>
 
-## 🌱 I do want to be a perception engineer for autonomous driving!
+## 🌱 I am a perception engineer for autonomous driving!
 
 ### 😄Interests
 - Computer Vision
@@ -9,7 +9,7 @@
 - Deep Learning
 
 
-### 🤔Project Lists related to Perception
+### 🤔Small Project related to Perception
 1. [Lane Keeping System](https://github.com/JongRok-Lee/Lane_keeping_system)
 2. [Object Detection & Position Estimation](https://github.com/JongRok-Lee/Monocular_Position_Estimation)
 3. [Traffic Sign Detection & Driving Algorithm](https://github.com/JongRok-Lee/traffic_sign_Project)
