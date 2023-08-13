@@ -1,11 +1,11 @@
 <h1 align="center"> JongRok Lee's Profile 👋 </h1>
 
-## 🌱 I am a perception engineer for autonomous driving!
+## 🌱 I am a LiDAR perception engineer!
 
 ### 😄Interests
-- Computer Vision
-- Sensor Fusion
-- Visual SLAM
+- LiDAR Object Detecion
+- Sensor Fusion (Camera + LiDAR)
+- SLAM
 - Deep Learning
 
 
