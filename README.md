@@ -3,8 +3,7 @@
 ## 🌱 I am an Autonomous Driving Perception Engineer!
 
 ### 😄Interests
-#### Deep Learning
-- LiDAR Object Detecion
+- Deep Learning (3D Object Detecion)
 - Sensor Fusion
 - SLAM
 
