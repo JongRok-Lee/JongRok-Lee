@@ -1,13 +1,12 @@
 <h1 align="center"> JongRok Lee's Profile 👋 </h1>
 
-## 🌱 I am a LiDAR perception engineer!
+## 🌱 I am an Autonomous Driving Perception Engineer!
 
 ### 😄Interests
+#### Deep Learning
 - LiDAR Object Detecion
-- Sensor Fusion (Camera + LiDAR)
+- Sensor Fusion
 - SLAM
-- Deep Learning
-
 
 ### 🤔Small Project related to Perception
 1. [Lane Keeping System](https://github.com/JongRok-Lee/Lane_keeping_system)
