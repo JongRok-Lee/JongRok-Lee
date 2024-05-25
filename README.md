@@ -8,14 +8,15 @@
 - SLAM
 
 ### 🤔Small Project related to Perception
-1. [Lane Keeping System](https://github.com/JongRok-Lee/Lane_keeping_system)
-2. [Object Detection & Position Estimation](https://github.com/JongRok-Lee/Monocular_Position_Estimation)
-3. [Traffic Sign Detection & Driving Algorithm](https://github.com/JongRok-Lee/traffic_sign_Project)
-4. [Performance Evaluation module for Monocular Depth Estimation model](https://github.com/SOTA-Project)
-5. [Peudo RGBD SLAM for visualization of vehicle surroundings](https://github.com/JongRok-Lee/ORB_SLAM2_with_PCL)
-6. [Surroud view Monitoring System](https://github.com/JongRok-Lee/Surround-View-Monitoring)
+1. [CenterPoint TensorRT Inference w/ ROS2](https://github.com/JongRok-Lee/OpenPCDet)
+2. [Lane Keeping System](https://github.com/JongRok-Lee/Lane_keeping_system)
+3. [Object Detection & Position Estimation](https://github.com/JongRok-Lee/Monocular_Position_Estimation)
+4. [Traffic Sign Detection & Driving Algorithm](https://github.com/JongRok-Lee/traffic_sign_Project)
+5. [Performance Evaluation module for Monocular Depth Estimation model](https://github.com/SOTA-Project)
+6. [Peudo RGBD SLAM for visualization of vehicle surroundings](https://github.com/JongRok-Lee/ORB_SLAM2_with_PCL)
+7. [Surroud view Monitoring System](https://github.com/JongRok-Lee/Surround-View-Monitoring)
 
-### 🌱 Study with [Toy project](https://github.com/JongRok-Lee/Toy-Projects)
+### 🌱 [Toy projects](https://github.com/JongRok-Lee/Toy-Projects)
 1. Stitching Implementation without OpenCV Stitching API
 2. Implementation of Trajkovic's corner detection algorithm
 3. Calculate Homography Matrix with [DLT + RANSAC] algorithm
