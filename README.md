@@ -8,7 +8,7 @@
 - SLAM
 
 ### 🤔Small Project related to Perception
-1. [3D Object Detection TensorRT Inference w/ ROS2]([https://github.com/JongRok-Lee/OpenPCDet](https://github.com/JongRok-Lee/OpenPCDet/tree/centerpoint))
+1. [3D Object Detection TensorRT Inference w/ ROS2]([https://github.com/JongRok-Lee/OpenPCDet](https://github.com/JongRok-Lee/OpenPCDet/tree/centerpoint])
 2. [Monocular Lane Keeping System](https://github.com/JongRok-Lee/Lane_keeping_system)
 3. [2D Object Detection & Position Estimation](https://github.com/JongRok-Lee/Monocular_Position_Estimation)
 4. [Traffic Sign Detection & Driving Algorithm](https://github.com/JongRok-Lee/traffic_sign_Project)
